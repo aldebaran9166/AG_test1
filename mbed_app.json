@@ -5,7 +5,7 @@
         "target.c_lib": "std",
         "target.printf_lib": "std",
         "platform.minimal-printf-enable-floating-point": true,
-        "platform.stdio-minimal-console-only": true
+        "platform.stdio-minimal-console-only": false
       }
     }
 }

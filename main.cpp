@@ -47,7 +47,7 @@ printf("%f %f %f \r\n ",DOF6.gx,DOF6.gy,DOF6.gz);
 /////////////////////////
 #include "mbed.h"
 #include "LSM6DSO.h"
-#include "string.h"
+
 
 
 //
